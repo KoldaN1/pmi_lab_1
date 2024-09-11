@@ -1,3 +1,0 @@
-C:/Users/денчик/Desktop/PM/build/CMakeFiles/firstLab.dir
-C:/Users/денчик/Desktop/PM/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/денчик/Desktop/PM/build/CMakeFiles/ZERO_CHECK.dir
